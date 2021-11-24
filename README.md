@@ -13,9 +13,16 @@ This repository contains the information needed for the Connected Data World Mas
 
 We will largely rely on the former for this course.  However, I am including the later for those who might not have access to Colab.  The necessary Docker files and requirements are included in this repository and their use is described below.
 
+## Quick links for the workshop
+
+- [Google Colab](https://colab.research.google.com/)
+  - Note that this means **you will need a Google account** to use this!
+- [Neo4j Sandbox](https://dev.neo4j.com/sandbox)
+- [Neo4j Blank Graph Data Science Sandbox](https://dev.neo4j.com/blank_gds_sandbox)
+
 ## Instructions for pre-workshop preparation
 
-Below you will find information on how to created both an API key for the Google Knowledge Graph as well as the API token for Wikidata.  You will need to create these before the workshop.
+Below you will find information on how to created both an API key for the Google Knowledge Graph as well as the API token for Wikidata.  If you would like to create your own graph (versus using the graphs supplied in this repo), you will need to create these before the workshop.
 
 Additionally, note that this repository will be updated regularly between now and the workshop.  You are encouraged to pull the latest version of it just before the workshop to make sure you have the most up-to-date code.
 
@@ -75,6 +82,8 @@ The first time you run this container from the repo, the permissions on `data/` 
 
 ## Useful links
 
+- [Bite-Sized Neo4j for Data Scientists](https://neo4j.com/video/bite-sized-neo4j-for-data-scientists/)
+  - [Repository of Bite-Sized Code](https://dev.neo4j.com/bites_repo)
 - [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
 - [Project Jupyter](https://jupyter.org/)
 - [Docker for Data Science -- A Step by Step Guide](https://towardsdatascience.com/docker-for-data-science-a-step-by-step-guide-1e5f7f3baf8e)
