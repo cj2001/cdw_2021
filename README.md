@@ -91,6 +91,7 @@ The first time you run this container from the repo, the permissions on `data/` 
   - [How to Create a Google Knowledge Graph Search API Key](https://developers.google.com/knowledge-graph/prereqs)
   - [Knowledge Graph Search API Authorize Requests](https://developers.google.com/knowledge-graph/how-tos/authorizing)
 - [Neo4j](https://neo4j.com)
+  - [Neo4j Discord Server](https://discord.gg/neo4j)
   - [Awesome Procedures on Cypher (APOC)](https://neo4j.com/labs/apoc/)
   - [Cypher Manual](https://neo4j.com/docs/cypher-manual/current/)
   - [Cypher Reference Card](https://neo4j.com/docs/pdf/neo4j-cypher-refcard-stable.pdf)
